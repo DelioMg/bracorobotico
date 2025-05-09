@@ -35,5 +35,5 @@ Explorar transformações geométricas, renderização 3D e interação com o us
 Certifique-se de ter o OpenGL e GLUT instalados. Compile com:
 
 ```bash
-g++ main.cpp -lGL -lGLU -lglut -o simulador
-./simulador
+g++ -o main.exe main.cpp -I"./include" -L"./lib/x64" -lfreeglut -lopengl32 -lglu32
+ .\main.exe
