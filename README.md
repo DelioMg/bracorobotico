@@ -28,7 +28,7 @@ Explorar transformações geométricas, renderização 3D e interação com o us
 
 ## 📷 Captura de Tela
 
-*(Adicione uma imagem aqui, se quiser mostrar o simulador em execução)*
+![Simulação do braço robótico](imgs/screenshot.png)
 
 ## 🚀 Execução
 
@@ -36,4 +36,4 @@ Certifique-se de ter o OpenGL e GLUT instalados. Compile com:
 
 ```bash
 g++ -o main.exe main.cpp -I"./include" -L"./lib/x64" -lfreeglut -lopengl32 -lglu32
- .\main.exe
+.\main.exe
