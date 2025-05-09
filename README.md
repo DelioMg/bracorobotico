@@ -28,7 +28,7 @@ Explorar transformações geométricas, renderização 3D e interação com o us
 
 ## 📷 Captura de Tela
 
-![Simulação do braço robótico](imgs/screenshot.png)
+![Simulação do braço robótico](img/screenshot.png)
 
 ## 🚀 Execução
 
